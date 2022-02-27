@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mazal-persons-board/static/css/main.b30fe9b4.css",
+    "main.js": "/mazal-persons-board/static/js/main.61b1207f.js",
+    "static/js/787.fba4b3a1.chunk.js": "/mazal-persons-board/static/js/787.fba4b3a1.chunk.js",
+    "index.html": "/mazal-persons-board/index.html",
+    "main.b30fe9b4.css.map": "/mazal-persons-board/static/css/main.b30fe9b4.css.map",
+    "main.61b1207f.js.map": "/mazal-persons-board/static/js/main.61b1207f.js.map",
+    "787.fba4b3a1.chunk.js.map": "/mazal-persons-board/static/js/787.fba4b3a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b30fe9b4.css",
+    "static/js/main.61b1207f.js"
+  ]
+}
